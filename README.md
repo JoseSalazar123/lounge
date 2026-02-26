@@ -8,7 +8,7 @@ HTML y CSS.
 Puede clonarse el proyecto
 desde GitHub:
 ```
-git clone https://github.com/usuario/lounge.git
+git clone https://github.com/JoseSalazar123/lounge.git
 ```
 ## Uso
 Puede renderizarse el proyecto
